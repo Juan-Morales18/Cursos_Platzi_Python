@@ -11,7 +11,7 @@ Es un grupo de cero o mas elementos que pueden tratarse como una sola unidad.
 
 - **Lineales**
 
-  - Estan ordenadas por poscion
+  - Estan ordenadas por posicion
   - Solo el primer elemento no tiene predecesor
 
 - **Jerarquicas**

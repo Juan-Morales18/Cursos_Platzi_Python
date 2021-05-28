@@ -4,7 +4,7 @@
 
   - No permite:
     - Agregar posiciones
-    - Remover posciones
+    - Remover posiciones
     - Modificar su tamanio
     - Su capacidad o tamanio se define al momento en que son creados
     - Casos de uso:

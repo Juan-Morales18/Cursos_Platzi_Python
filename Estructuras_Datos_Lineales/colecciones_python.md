@@ -3,8 +3,8 @@
 - **Listas/Lists**
 
   - Son de proposito general
-  - Es la estructura mas utiliazada
-  - Tamano dinamico
+  - Es la estructura mas utilizada
+  - Tamanio dinamico
   - De tipo secuencial
   - Ordenable
   - _Implementacion:_
@@ -22,7 +22,7 @@
 - **Tuplas**
 
   - Inmutable (No se puede agregar o cambiar elemento)
-  - Son de utiliada para almacenar datos constantes
+  - Son de utiliadad para almacenar datos constantes
   - Son mas rapidas que las listas
   - Tipo secuencial
   - _Implementacion:_
