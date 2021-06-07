@@ -66,4 +66,3 @@ if __name__ == "__main__":
         """)
     else:
         print("Lo sentimos, hubo un error en la conversion. Intente de nuevo")
-admin
